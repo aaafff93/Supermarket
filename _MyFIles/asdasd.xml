@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Cashier>
+    <CashierID>1</CashierID>
+    <FIO>Леонтьев Н.Ф.</FIO>
+    <Revenue>679.00</Revenue>
+  </Cashier>
+  <Cashier>
+    <CashierID>2</CashierID>
+    <FIO>Кукушкина М.М.</FIO>
+    <Revenue>500.00</Revenue>
+  </Cashier>
+  <Cashier>
+    <CashierID>3</CashierID>
+    <FIO>Наумова К.А.</FIO>
+    <Revenue>210.00</Revenue>
+  </Cashier>
+  <Cashier>
+    <CashierID>4</CashierID>
+    <FIO>Морозов Н.М.</FIO>
+    <Revenue>0.00</Revenue>
+  </Cashier>
+  <Cashier>
+    <CashierID>5</CashierID>
+    <FIO>Кузнецов А.К.</FIO>
+    <Revenue>0.00</Revenue>
+  </Cashier>
+</NewDataSet>
